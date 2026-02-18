@@ -11,7 +11,7 @@ The goal of the project is to build a **5-page website using only HTML** and col
 Tech Innovators Hub is a fictional technology organization.  
 The website consists of **five linked HTML pages**, each developed by a different team member.
 
-⚠️ **Restrictions**
+⚠️ Restrictions
 - HTML only
 - No CSS
 - No JavaScript
